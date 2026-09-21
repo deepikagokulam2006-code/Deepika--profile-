@@ -8,7 +8,9 @@ I am **Deepika S**, an Electrical and Electronics Engineering (EEE) student at *
 ## 🎓 Education
 | Qualification | Institution |
 |--------------|-------------|
-| B.Tech in Electrical and Electronics Engineering | Government Engineering College (GEC) Barton Hill |
+| SSLC-state (10A+) | PRWilliam HSS Kattakada |
+| Plus two-state(6A+-1189/1200) | GHSS Kulathummal |
+| B.Tech in Electrical and Electronics Engineering student (present) | Government Engineering College (GEC) Barton Hill |
 
 ---
 
