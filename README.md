@@ -43,7 +43,7 @@ I am **Deepika S**, an Electrical and Electronics Engineering (EEE) student at *
 
 ## 🌐 Connect With Me
 - 📧 Email: deepikagokulam2006@gmail.com
-🔗 GitHub: https://github.com/deepikagokulam2006-code⁠
+🔗 GitHub: deepikagokulam2006-code
 - LinkedIn: https://www.linkedin.com/in/deepika-s-8b4543434?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
